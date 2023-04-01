@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dodo-pizza/static/css/main.4c9b6e2d.css",
+    "main.js": "/dodo-pizza/static/js/main.28a3ad90.js",
+    "static/media/pizza-logo.svg": "/dodo-pizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/dodo-pizza/index.html",
+    "main.4c9b6e2d.css.map": "/dodo-pizza/static/css/main.4c9b6e2d.css.map",
+    "main.28a3ad90.js.map": "/dodo-pizza/static/js/main.28a3ad90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c9b6e2d.css",
+    "static/js/main.28a3ad90.js"
+  ]
+}
